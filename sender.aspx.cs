@@ -10,7 +10,7 @@ using System.Web.Script.Serialization;
 using System.Text;
 using System.IO;
 
-// https://gist.github.com/doncadavona/fd493b6ced456371da8879c22bb1c263
+
 namespace EncDec
 {
     public partial class sender : System.Web.UI.Page
